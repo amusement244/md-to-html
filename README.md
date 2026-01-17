@@ -1,6 +1,10 @@
 # md-to-html
 
-This template should help get you started developing with Vue 3 in Vite.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4da8422f-bae0-4dd1-9dff-1e118bcc0b81/deploy-status)](https://app.netlify.com/projects/tubular-lebkuchen-644bab/deploys)
+
+
+- template https://vuejs.org/guide/quick-start.html
+- reference https://blog.openreplay.com/how-to-parse-and-render-markdown-in-vuejs/
 
 ## Recommended IDE Setup
 
